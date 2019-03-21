@@ -52,9 +52,11 @@ A complete log of my web development skills, learning for 2019
 |    Project scaffolding    |      ![done][done]      |      ![done][done]      | ![done][done] | ![done][done] |           |
 |   Single file component   |      ![done][done]      |      ![done][done]      | ![done][done] |               |           |
 |       unit testing        |      ![done][done]      |                         |               |               |           |
+|  animation and transiton  |      ![done][done]      |      ![done][done]      |               |               |           |
 |          Routing          | ![workingon][workingon] |                         |               |               |           |
 | Single-page applications  |                         |                         |               |               |           |
 |     State Management      |                         |                         |               |               |           |
+|          vuetify          |                         |                         |               |               |           |
 |        Deployment         |                         |                         |               |               |           |
 |            PWA            |                         |                         |               |               |           |
 
